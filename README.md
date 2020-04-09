@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Desafio 03: Conceitos do ReactJS
+  Desafio Front-end: Conceitos do ReactJS
 </h3>
 
 <p align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
@@ -22,25 +22,17 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#Funcionalidades-da-aplicação">Funcionalidades da Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Específicação-dos-testes">Especificação dos Testes</a>
 </p>
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
+Esse desafio tem como objetivo principal colocar em prática tudo que aprendi até agora no Bootcamp utilizando ReactJS!
 
-Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend no último desafio utilizando o Node.js.
+Continuando o desenvolvimento da aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolvi o backend último desafio utilizando o Node.js.
 
-### Template da aplicação
-
-Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do github.
-
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-conceitos-reactjs)**
-
-**Dica**: Caso não saiba utilizar repositórios do github como template, temos um guia em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
-Agora navegue até a pasta criada e abra no Visual Studio Code, execute o comando `yarn` no seu terminal para instalar todas as dependências e já estará pronto para iniciar.
+Caso tenha interesse, segue o Link para o repositorio do Back-end: [Repositorio - Back-end da Aplicação](https://github.com/jonasborgesweb/N1_BackEnd-NodeJS)
 
 ### Funcionalidades da aplicação
 
@@ -56,22 +48,18 @@ Agora que você já está com o template clonado, e pronto para continuar, você
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
 
-Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dê uma olhada em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
 Para esse desafio temos os seguintes testes:
 
 - **`should be able to add new repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma `LI`.
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
 
-## :calendar: Entrega
+### Autor
+Jonas Borges - Desenvolvedor Front End
 
-Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+### Agradecimentos
+Gostaria de agradecer a todas as pessoas que me apoiam nessa jornada de inicio de carreira, especialmente a toda minha familia e meus amigos que sempre estão me apoiando.
 
 ---
 
-Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Jonas Borges :wave: [Linkedin](https://www.linkedin.com/in/jonasborgesweb/) - [Instagram](https://www.instagram.com/jonasborgesweb/)
