@@ -28,15 +28,15 @@
 
 ## :rocket: Sobre o desafio
 
-Esse desafio tem como objetivo principal colocar em prática tudo que aprendi até agora no Bootcamp utilizando ReactJS!
+Esse desafio tem o objetivo de aplicar os Conceitos de ReactJS em um projeto do Bootcamp GoStack
 
-Continuando o desenvolvimento da aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolvi o backend último desafio utilizando o Node.js.
+Continuando o desenvolvimento da aplicação que irá armazenar repositórios do seu portifólio, onde já desenvolvi o backend utilizando Node.js e o Mobile utilizando React Native
 
-Caso tenha interesse, segue o Link para o repositorio do Back-end: [Repositorio - Back-end da Aplicação](https://github.com/jonasborgesweb/N1_BackEnd-NodeJS)
+Caso tenha interesse, segue os Links do Repositório:
+- Back-end: [Repositorio - Back-end da Aplicação](https://github.com/jonasborgesweb/N1_BackEnd-NodeJS)
+- Front-end: [Repositorio - Mobile da Aplicação](https://github.com/jonasborgesweb/N1_Mobile-ReactNative)
 
 ### Funcionalidades da aplicação
-
-Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo **src/App.js**, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
 
 - **`Listar os repositórios da sua API`**: Deve ser capaz de criar uma lista com o campo **title** de todos os repositórios que estão cadastrados na sua API.
 
@@ -47,6 +47,8 @@ Agora que você já está com o template clonado, e pronto para continuar, você
 ### Específicação dos testes
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
+
+Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dé uma olhada em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
 
 Para esse desafio temos os seguintes testes:
 
@@ -62,4 +64,4 @@ Gostaria de agradecer a todas as pessoas que me apoiam nessa jornada de inicio d
 
 ---
 
-Feito com 💜 by Jonas Borges :wave: [Linkedin](https://www.linkedin.com/in/jonasborgesweb/) - [Instagram](https://www.instagram.com/jonasborgesweb/)
+Feito com 💜 by Jonas Borges :wave: [Linkedin](https://www.linkedin.com/in/jonasborgesweb/) | [Instagram](https://www.instagram.com/jonasborgesweb/)
