@@ -34,7 +34,7 @@ Continuando o desenvolvimento da aplicação que irá armazenar repositórios do
 
 Caso tenha interesse, segue os Links do Repositório:
 - Back-end: [Repositorio - Back-end da Aplicação](https://github.com/jonasborgesweb/N1_BackEnd-NodeJS)
-- Front-end: [Repositorio - Mobile da Aplicação](https://github.com/jonasborgesweb/N1_Mobile-ReactNative)
+- Mobile: [Repositorio - Mobile da Aplicação](https://github.com/jonasborgesweb/N1_Mobile-ReactNative)
 
 ### Funcionalidades da aplicação
 
